@@ -1,4 +1,4 @@
-# Capstone Project : Modul 1 - Pembuatan Rental DVD dengan Metode CRUD
+# Pembuatan Rental DVD dengan Metode CRUD
 Aplikasi ini dibuat untuk bernostalgia bagaimana pengalaman melakukan rental DVD.
 Aplkasi ini juga bisa diterapkan pada toko-toko atau rental-rental lain yang sejenis karena memiliki fitur-fitur yang relatif sama.
 Aplikasi ini bisa digunakan oleh Guest, Member, maupun Owner.
